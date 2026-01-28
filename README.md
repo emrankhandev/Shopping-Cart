@@ -1,19 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Simple Shopping Cart 🛒
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**Simple Shopping Cart** is a **Progressive Web App (PWA)** that delivers an app-like experience on both desktop and mobile Chrome browsers. Users can browse, add, and remove items in real time with a fully responsive and interactive interface.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## ✅ Features
 
-Happy Coding!
+- **Progressive Web App (PWA):** Runs like an app on Chrome browsers for both phones and desktops.  
+- **Responsive Design:** Built with HTML and CSS to ensure a user-friendly interface on all screen sizes.  
+- **Dynamic Cart:** Add or remove items in real time using JavaScript.  
+- **Secure Authentication & Storage:** Integrated Firebase Authentication for login/signup and Firebase Realtime Database for storing user data.
+
+---
+
+## 🌐 Demo
+
+Try the live app here: [Simple Shopping Cart](https://simpleshoppingcarts.netlify.app/)  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend / Database:** Firebase Realtime Database  
+- **Authentication:** Firebase Authentication  
+- **Hosting:** Netlify  
+
+---
+
+## 💻 Installation
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/emrankhandev/simple-shopping-cart.git
